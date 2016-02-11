@@ -1,0 +1,20 @@
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\bin\Debug\BeerPubProject.exe
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\bin\Debug\BeerPubProject.pdb
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.GUI.BeerPubForm.resources
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.Properties.Resources.resources
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.csproj.GenerateResource.Cache
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.exe
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.csprojResolveAssemblyReference.cache
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.exe
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\bin\Debug\BeerPubProject.exe
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\bin\Debug\BeerPubProject.pdb
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.csprojResolveAssemblyReference.cache
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.GUI.BeerPubForm.resources
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.Properties.Resources.resources
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.csproj.GenerateResource.Cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb

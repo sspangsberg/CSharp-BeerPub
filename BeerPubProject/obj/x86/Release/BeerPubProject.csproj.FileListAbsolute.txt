@@ -1,0 +1,15 @@
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.Properties.Resources.resources
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.csproj.GenerateResource.Cache
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\bin\Release\BeerPubProject.exe
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\bin\Release\BeerPubProject.pdb
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.exe
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.pdb
+C:\Users\Salvatorex\Documents\Visual Studio 2010\Projects\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.GUI.BeerPubForm.resources
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.csprojResolveAssemblyReference.cache
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.GUI.BeerPubForm.resources
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.Properties.Resources.resources
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.csproj.GenerateResource.Cache
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.exe
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\bin\Release\BeerPubProject.exe
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\bin\Release\BeerPubProject.pdb
+G:\Undervisning\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Release\BeerPubProject.pdb
