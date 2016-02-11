@@ -18,3 +18,11 @@ E:\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\ob
 E:\Dropbox\Undervisning\Softwarekonstruktion\C#\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb
 E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.exe
 E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\BeerPubProject\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\obj\x86\Debug\BeerPubProject.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\obj\x86\Debug\BeerPubProject.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\bin\Debug\BeerPubProject.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\bin\Debug\BeerPubProject.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\obj\x86\Debug\BeerPubProject.csprojResolveAssemblyReference.cache
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\obj\x86\Debug\BeerPubProject.GUI.BeerPubForm.resources
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\obj\x86\Debug\BeerPubProject.Properties.Resources.resources
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\GitHub\CSharp-BeerPub\BeerPubProject\obj\x86\Debug\BeerPubProject.csproj.GenerateResource.Cache
